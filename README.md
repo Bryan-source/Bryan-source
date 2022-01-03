@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Bryan-source
-- 👀 I’m interested in video games and web development
-- 🌱 I’m currently learning front-end and back-end
-- 💞️ I’m looking to collaborate on video games and user interfaces
+- 👋 Hi, I’m Bryan Escobar.
+- 👀 I’m interested in web development and video games.
+- 🌱 I’m currently learning front-end and back-end.
+- 💞️ I’m looking to collaborate on web aplications.
 - 📫 How to reach me ...
 
 <!---
